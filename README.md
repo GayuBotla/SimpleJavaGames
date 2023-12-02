@@ -1,2 +1,2 @@
 # SimpleJavaGames
-This project includes simple java programs like, Guessing game of numbers, rock scissor and paper,tictactoe and hangman games
+This project includes individual simple java Games like Guessing game of numbers, RockScissorsPaper, Tic-tac-toe and Hangman.
